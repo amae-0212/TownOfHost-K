@@ -14,7 +14,7 @@
 この Mod はTOH-Kに役職や機能など追加したModです
 <br>
 
-また、TOH-Kに関する質問、バグ報告は基本、[DiscordServer](https://discord.gg/a99kVdbpPc)でのみ受け付けております。<br>
+また、このModに関する質問、バグ報告は基本、[DiscordServer](https://discord.gg/a99kVdbpPc)でのみ受け付けております。<br>
 
 機能面などを開発者にDMで聞くのは超大迷惑なので基本おやめください。<br>
 
